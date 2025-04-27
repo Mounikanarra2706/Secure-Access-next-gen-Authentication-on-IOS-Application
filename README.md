@@ -1,8 +1,8 @@
  Secure Access: Next-Generation Authentication on iOS
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/your-github-username/SecureAccess-iOS?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/your-github-username/SecureAccess-iOS?style=social)
-![GitHub License](https://img.shields.io/github/license/your-github-username/SecureAccess-iOS)
+![GitHub Repo Stars](https://img.shields.io/github/stars/Mounikanarra2706/SecureAccess-iOS?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Mounikanarra2706/SecureAccess-iOS?style=social)
+![GitHub License](https://img.shields.io/github/license/Mounikanarra2706/SecureAccess-iOS)
 ![Made With Swift](https://img.shields.io/badge/Made%20with-Swift-orange.svg)
 ![Privacy Focused](https://img.shields.io/badge/Privacy-Focused-brightgreen)
 
