@@ -97,7 +97,7 @@ Distributed under the **MIT License**. See the `LICENSE` file for more informati
 
 ---
 
-> Developed with a vision to create **next-generation mobile security** by combining convenience, privacy, and cutting-edge authentication technologies. 🚀
+Developed with a vision to create **next-generation mobile security** by combining convenience, privacy, and cutting-edge authentication technologies. 
 
 ---
  
